@@ -1,0 +1,5 @@
+com\ruchi\assignment\domain\Catalogue.class
+com\ruchi\assignment\controller\CatalogueController.class
+com\ruchi\assignment\service\CatalogueService.class
+com\ruchi\assignment\AssignmentApplication.class
+com\ruchi\assignment\repository\CatalogueRepository.class
